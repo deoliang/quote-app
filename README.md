@@ -28,7 +28,7 @@ npm start
 App will be running at [http://localhost:3000](http://localhost:3000) by default
 
 # Deployment 
-Deployed with zeit.co's now 2.0. Link to [Quote-app](https://quote-app.now.sh/). Deployment's 2500+ quotes sourced from goodreads.com
+Deployed with vercel. Link to [Demo](https://quote-app.vercel.app/). Deployment's 1500+ quotes sourced from goodreads.com
 
 # Reference
 [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
